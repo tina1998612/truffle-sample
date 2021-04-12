@@ -1,0 +1,26 @@
+{
+  "name": "truffle-sample",
+  "version": "1.0.0",
+  "description": "``` truffle debug <txID> --network sandbox --fetch-external ``` - Remember to copy `.env.example` to `.env` - [Tutorial](https://www.trufflesuite.com/blog/debugging-verified-external-contracts-with-truffle-debugger)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tina1998612/truffle-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tina1998612/truffle-sample/issues"
+  },
+  "homepage": "https://github.com/tina1998612/truffle-sample#readme"
+}
